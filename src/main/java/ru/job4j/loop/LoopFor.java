@@ -5,5 +5,8 @@ public class LoopFor {
         for (int index = 5; index <= 10; index++) {
             System.out.println(index);
         }
+        for (int index = 11; index <= 15; index++) {
+            System.out.println(index);
+        }
     }
 }
